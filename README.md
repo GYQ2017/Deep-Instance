@@ -26,7 +26,7 @@
 
 ---
 
-- 数组切片__ 
+- __数组切片__ 
   - 描述：主要是针对数组的切片操作
   - 源码：[001.py](https://github.com/GYQ2017/Deep-Instance/blob/master/Pytorch/001.py) 
 - __pytorch 计算图__ 
